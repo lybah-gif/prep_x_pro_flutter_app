@@ -6,7 +6,7 @@ PrepX Pro helps job seekers prepare for technical interviews in one place: a sea
 
 ---
 
-## ✨ Features
+##  Features
 
 | Module | What it does |
 |---|---|
@@ -23,7 +23,7 @@ PrepX Pro helps job seekers prepare for technical interviews in one place: a sea
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Framework:** Flutter (Dart ≥ 3.0)
 - **State management / DI / routing:** [GetX](https://pub.dev/packages/get) (`get`, `get_storage`)
@@ -37,7 +37,7 @@ PrepX Pro helps job seekers prepare for technical interviews in one place: a sea
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 lib/
@@ -59,7 +59,7 @@ lib/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -96,7 +96,7 @@ lib/
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 Dark-first theme with an indigo accent:
 
@@ -110,7 +110,7 @@ Dark-first theme with an indigo accent:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 flutter test
@@ -120,7 +120,7 @@ flutter test
 
 ---
 
-## 🔒 Security Notes
+##  Security Notes
 
 - **Rotate and externalize the Gemini API key** — do not commit it as a string literal.
 - Review **Firestore security rules** to ensure per-user read/write restrictions.
@@ -128,7 +128,7 @@ flutter test
 
 ---
 
-## 🗺 Roadmap
+##  Roadmap
 
 - Automated test coverage for controllers, providers, and key user flows
 - Environment-based secrets configuration
