@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096840168100",
+    "project_id": "prepx-pro",
+    "storage_bucket": "prepx-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096840168100:android:a530a2185c28ad72ccdc31",
+        "android_client_info": {
+          "package_name": "com.example.prepx_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndGcmaabYrLFFSrFWhkS-iloYUd7At7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
